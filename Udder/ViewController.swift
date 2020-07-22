@@ -18,5 +18,9 @@ class ViewController: UIViewController {
     override func viewWillLayoutSubviews() {
         //
     }
+    
+    override func didReceiveMemoryWarning() {
+        //
+    }
 }
 
